@@ -1,0 +1,16 @@
+.weatherTile {
+    display: flex;
+    margin: 8px 0;
+    border: 1px dashed grey;
+  }
+  
+  .weatherInfo {
+    display: flex;
+    flex-flow: column;
+    padding: 6px;
+  }
+  
+  .appContainer {
+    display: flex;
+    flex-flow: column;
+  }
